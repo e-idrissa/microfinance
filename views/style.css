@@ -1,0 +1,10 @@
+.scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+}
+
+  /* Style de flou pour la classe modal-blur */
+  .blurred {
+    @apply {
+        bg-opacity-50;
+    }
+  }
